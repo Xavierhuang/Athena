@@ -1,0 +1,714 @@
+=== Application Logs ===
+
+[INFO] 2025-02-24T17:00:21.766Z
+Server starting up...
+
+[INFO] 2025-02-24T17:00:21.770Z
+Server running on port 3001
+
+[INFO] 2025-02-24T17:00:24.334Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:00:24.337Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:00:31.871Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:00:34.218Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:00:47.277Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:00:53.730Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:00:59.573Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:03:09.236Z
+Server starting up...
+
+[INFO] 2025-02-24T17:03:09.239Z
+Server running on port 3001
+
+[INFO] 2025-02-24T17:03:11.575Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:03:11.584Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:03:18.283Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:03:22.111Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:03:34.823Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:03:37.811Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:04:09.501Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:06:24.822Z
+Server starting up...
+
+[INFO] 2025-02-24T17:06:24.825Z
+Server running on port 3001
+
+[INFO] 2025-02-24T17:06:27.169Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:06:27.175Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:06:32.578Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:06:34.309Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:06:43.161Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:06:46.191Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:06:50.182Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:06:50.187Z
+Generating recommendations for: [object Object]
+
+[INFO] 2025-02-24T17:06:50.189Z
+Generated prompt: 
+
+[INFO] 2025-02-24T17:07:01.464Z
+GPT response successful
+
+[INFO] 2025-02-24T17:12:04.791Z
+Server starting up...
+
+[INFO] 2025-02-24T17:12:04.794Z
+Server running on port 3001
+
+[INFO] 2025-02-24T17:12:07.291Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:12:07.295Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:12:23.928Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:12:27.712Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:12:38.290Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:12:43.145Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:12:47.745Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:12:47.748Z
+Generating recommendations for: [object Object]
+
+[INFO] 2025-02-24T17:12:47.748Z
+Generated prompt: 
+
+[INFO] 2025-02-24T17:12:51.991Z
+GPT response successful
+
+[INFO] 2025-02-24T17:18:25.424Z
+Server starting up...
+
+[INFO] 2025-02-24T17:18:25.427Z
+Server running on port 3001
+
+[INFO] 2025-02-24T17:18:27.799Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:18:27.802Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:18:45.195Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:18:46.942Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:19:02.490Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:19:06.617Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:19:10.648Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:19:10.650Z
+Generating recommendations for: [object Object]
+
+[INFO] 2025-02-24T17:19:10.651Z
+Generating prompt with userData: {
+  "location": "chinatown",
+  "num_children": 1,
+  "children": [
+    {
+      "name": "xavier",
+      "birthdate": "2014-02-15",
+      "interests": [
+        "sports"
+      ],
+      "preferred_activity": "teakwondo"
+    }
+  ],
+  "recommendations": []
+}
+
+[INFO] 2025-02-24T17:22:19.257Z
+Server starting up...
+
+[INFO] 2025-02-24T17:22:19.260Z
+Server running on port 3001
+
+[INFO] 2025-02-24T17:22:21.707Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:22:21.713Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:22:27.658Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:22:31.207Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:22:45.116Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:22:49.304Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:22:55.200Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:22:55.202Z
+Generating recommendations for: [object Object]
+
+[INFO] 2025-02-24T17:22:55.203Z
+Generating prompt with userData: {
+  "location": "chinatown",
+  "num_children": 1,
+  "children": [
+    {
+      "name": "jason",
+      "birthdate": "2015-04-07",
+      "interests": [
+        "sports"
+      ],
+      "preferred_activity": "teakwondo"
+    }
+  ],
+  "recommendations": []
+}
+
+[INFO] 2025-02-24T17:25:37.692Z
+Server starting up...
+
+[INFO] 2025-02-24T17:25:37.695Z
+Server running on port 3001
+
+[INFO] 2025-02-24T17:25:40.213Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:25:40.217Z
+Request: [object Object]
+
+[INFO] 2025-02-24T17:25:48.224Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:06:53.824Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:07:11.012Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:07:13.759Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:07:19.134Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:07:19.137Z
+Generating recommendations for: [object Object]
+
+[INFO] 2025-02-24T18:07:19.138Z
+Generating prompt with userData: {
+  "location": "chinatown",
+  "num_children": 1,
+  "children": [
+    {
+      "name": "xavier",
+      "birthdate": "2015-07-15",
+      "interests": [
+        "sports"
+      ],
+      "preferred_activity": "teakwondo"
+    }
+  ],
+  "recommendations": []
+}
+
+[INFO] 2025-02-24T18:07:50.844Z
+Server starting up...
+
+[INFO] 2025-02-24T18:07:50.847Z
+Server running on port 3001
+
+[INFO] 2025-02-24T18:07:53.390Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:07:53.396Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:07:58.831Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:08:00.885Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:08:08.659Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:08:11.445Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:08:26.773Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:08:26.777Z
+Generating recommendations for: [object Object]
+
+[INFO] 2025-02-24T18:08:26.778Z
+Generating prompt with userData: {
+  "location": "chinatown",
+  "num_children": 1,
+  "children": [
+    {
+      "name": "xavier",
+      "birthdate": "2015-02-01",
+      "interests": [
+        "sports"
+      ],
+      "preferred_activity": "teakwondo"
+    }
+  ],
+  "recommendations": []
+}
+
+[INFO] 2025-02-24T18:10:28.121Z
+Server starting up...
+
+[INFO] 2025-02-24T18:10:28.124Z
+Server running on port 3001
+
+[INFO] 2025-02-24T18:10:30.554Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:10:30.559Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:10:35.878Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:10:38.535Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:10:49.053Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:10:51.882Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:10:55.351Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:10:55.353Z
+Generating recommendations for: [object Object]
+
+[INFO] 2025-02-24T18:10:55.354Z
+Generating prompt with userData: {
+  "location": "chinatown",
+  "num_children": 1,
+  "children": [
+    {
+      "name": "xavier",
+      "birthdate": "2015-03-14",
+      "interests": [
+        "sports"
+      ],
+      "preferred_activity": "teakwondo"
+    }
+  ],
+  "recommendations": []
+}
+
+[ERROR] 2025-02-24T18:10:55.354Z
+Server Error: [object Object]
+
+[INFO] 2025-02-24T18:16:02.170Z
+Server starting up...
+
+[INFO] 2025-02-24T18:16:02.172Z
+Server running on port 3001
+
+[INFO] 2025-02-24T18:16:04.565Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:16:04.577Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:16:09.951Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:16:11.289Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:16:18.433Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:16:21.052Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:16:28.337Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:16:28.339Z
+Generating recommendations for: [object Object]
+
+[INFO] 2025-02-24T18:16:28.340Z
+Generating prompt with userData: {
+  "location": "chinatown",
+  "num_children": 1,
+  "children": [
+    {
+      "name": "xavier",
+      "birthdate": "2015-02-03",
+      "interests": [
+        "sports"
+      ],
+      "preferred_activity": "teakwondo"
+    }
+  ]
+}
+
+[INFO] 2025-02-24T18:16:28.340Z
+Selected child data: {
+  "name": "xavier",
+  "birthdate": "2015-02-03",
+  "interests": [
+    "sports"
+  ],
+  "preferred_activity": "teakwondo"
+}
+
+[INFO] 2025-02-24T18:16:28.341Z
+Generated prompt: 
+    I need recommendations for activities in chinatown for a 10-year-old child named xavier.
+    
+    Their interests include: sports
+    They're specifically interested in: teakwondo
+    
+    Please provide 3-4 specific activity recommendations that:
+    1. Match their age group (10 years old) and interests (sports)
+    2. Are available in chinatown
+    3. Include specific locations and brief descriptions
+    4. Consider their specific interest in teakwondo
+    
+    Format each recommendation with:
+    - Activity name
+    - Location
+    - Brief description
+    - Why it's a good match for xavier
+  
+
+[INFO] 2025-02-24T18:16:28.341Z
+Generated GPT prompt: 
+    I need recommendations for activities in chinatown for a 10-year-old child named xavier.
+    
+    Their interests include: sports
+    They're specifically interested in: teakwondo
+    
+    Please provide 3-4 specific activity recommendations that:
+    1. Match their age group (10 years old) and interests (sports)
+    2. Are available in chinatown
+    3. Include specific locations and brief descriptions
+    4. Consider their specific interest in teakwondo
+    
+    Format each recommendation with:
+    - Activity name
+    - Location
+    - Brief description
+    - Why it's a good match for xavier
+  
+
+[INFO] 2025-02-24T18:16:28.341Z
+Sending GPT request: [object Object]
+
+[INFO] 2025-02-24T18:17:03.114Z
+GPT response: Below are a few ideas in or near Manhattan’s Chinatown that would align with Xavier’s interest in sports—especially Taekwondo—and be appropriate for a 10-year-old:
+
+1) Chinatown YMCA – Youth Martial Arts Program  
+   • Location: 273 Bowery, New York, NY 10002 (just north of Chinatown)  
+   • Description: The Chinatown YMCA occasionally offers youth martial arts classes, including Taekwondo or similar disciplines, in a structured, beginner-friendly environment. Classes typically focus on basic kicks, forms, and respect-oriented philosophies.  
+   • Why It’s a Good Match for Xavier: He’ll get an introduction to Taekwondo fundamentals alongside peers his age, while also enjoying the supportive and community-focused setting of the YMCA.
+
+2) Amerikick Martial Arts (TriBeCa)  
+   • Location: 148 Reade Street, New York, NY 10013 (a short walk from Chinatown)  
+   • Description: Amerikick offers Taekwondo-based programs for kids, focusing on technique, discipline, and self-confidence. Classes are split by age groups, ensuring Xavier will be with similarly skilled participants.  
+   • Why It’s a Good Match for Xavier: The emphasis on Taekwondo provides a direct match for his interest, and their kid-friendly curriculum ensures he’ll feel challenged but not overwhelmed.
+
+3) Tiger Schulmann’s Mixed Martial Arts (SoHo)  
+   • Location: 34 Watts Street, New York, NY 10013 (on the edge of Chinatown and SoHo)  
+   • Description: Although not strictly Taekwondo, Tiger Schulmann’s program introduces children to various striking and kicking techniques, often incorporating elements similar to Taekwondo. Classes help build coordination, discipline, and confidence.  
+   • Why It’s a Good Match for Xavier: He’ll gain well-rounded martial arts experience—learning high kicks and footwork can dovetail neatly with a Taekwondo background.
+
+4) Columbus Park Open Practice Area  
+   • Location: 67 Mulberry Street, New York, NY 10013 (in the heart of Chinatown)  
+   • Description: Columbus Park is a community hub where local martial artists often practice in the mornings and weekends. While not an official Taekwondo class, it’s a place for Xavier to watch demonstrations, meet fellow enthusiasts, and perhaps connect with informal practice groups.  
+   • Why It’s a Good Match for Xavier: This free, outdoor option lets him see martial arts in a local setting. He could pick up new techniques, stay active, and find inspiration from others practicing forms and drills.
+
+[INFO] 2025-02-24T18:20:55.970Z
+Server starting up...
+
+[INFO] 2025-02-24T18:20:55.973Z
+Server running on port 3001
+
+[INFO] 2025-02-24T18:20:58.464Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:20:58.469Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:21:04.781Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:21:06.224Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:21:16.405Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:21:21.228Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:21:26.366Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:21:26.368Z
+Generating recommendations for: [object Object]
+
+[INFO] 2025-02-24T18:21:26.369Z
+Generating prompt with userData: {
+  "location": "chinatown",
+  "num_children": 1,
+  "children": [
+    {
+      "name": "xavier",
+      "birthdate": "2015-06-15",
+      "interests": [
+        "sports"
+      ],
+      "preferred_activity": "teakwondo"
+    }
+  ]
+}
+
+[INFO] 2025-02-24T18:21:26.369Z
+Selected child data: {
+  "name": "xavier",
+  "birthdate": "2015-06-15",
+  "interests": [
+    "sports"
+  ],
+  "preferred_activity": "teakwondo"
+}
+
+[INFO] 2025-02-24T18:21:26.370Z
+Generated prompt: 
+    I need recommendations for activities in chinatown for a 9-year-old child named xavier.
+    
+    Their interests include: sports
+    They're specifically interested in: teakwondo
+    
+    Please provide 3-4 specific activity recommendations that:
+    1. Match their age group (9 years old) and interests (sports)
+    2. Are available in chinatown
+    3. Include specific locations and brief descriptions
+    4. Consider their specific interest in teakwondo
+    
+    Format each recommendation with:
+    - Activity name
+    - Location
+    - Brief description
+    - Why it's a good match for xavier
+  
+
+[INFO] 2025-02-24T18:21:26.370Z
+Generated GPT prompt: 
+    I need recommendations for activities in chinatown for a 9-year-old child named xavier.
+    
+    Their interests include: sports
+    They're specifically interested in: teakwondo
+    
+    Please provide 3-4 specific activity recommendations that:
+    1. Match their age group (9 years old) and interests (sports)
+    2. Are available in chinatown
+    3. Include specific locations and brief descriptions
+    4. Consider their specific interest in teakwondo
+    
+    Format each recommendation with:
+    - Activity name
+    - Location
+    - Brief description
+    - Why it's a good match for xavier
+  
+
+[INFO] 2025-02-24T18:21:26.370Z
+Sending GPT request: [object Object]
+
+[INFO] 2025-02-24T18:22:15.516Z
+GPT response: **Hello! Here are some tailored Taekwondo and sports-focused ideas for 9-year-old Xavier in or near Chinatown:**
+
+## 1. Chinatown YMCA Kids’ Martial Arts  
+🏠 [273 Bowery, New York, NY 10002](https://goo.gl/maps/dyawc4ugqkB4ZL5s7)  
+📝 **Description:** Offers youth martial arts classes that incorporate basic self-defense and discipline. While not strictly Taekwondo, it’s still a great way to build foundational skills and stay active.  
+✨ **Why it’s a good match:** The YMCA’s kid-friendly environment helps Xavier learn martial arts techniques, gain confidence, and enjoy a welcoming community close to Chinatown.
+
+## 2. Columbus Park for Outdoor Practice  
+🏠 [67 Mulberry St, New York, NY 10013](https://goo.gl/maps/pqKna9seCZh5B3Dt9)  
+📝 **Description:** A popular neighborhood park with open spaces perfect for practicing kicks and forms or playing pick-up sports with friends.  
+✨ **Why it’s a good match:** It’s right in Chinatown, giving Xavier a safe outdoor area to keep active, practice Taekwondo moves on his own, and enjoy fresh air.
+
+## 3. JK Taekwondo & JK Boxing (Short Ride from Chinatown)  
+🏠 [102 E 30th St, New York, NY 10016](https://goo.gl/maps/GfB4E2QK2PCuBXo76)  
+📝 **Description:** Specializes in Taekwondo classes for kids. Instructors focus on discipline, fitness, and technique, with group sessions that keep children motivated.  
+✨ **Why it’s a good match:** Though a quick trip north of Chinatown, it offers structured Taekwondo training, giving Xavier the exact martial arts experience he’s after.
+
+## 4. Chung’s Tae Kwon Do (Short Ride from Chinatown)  
+🏠 [7 E 33rd St #302, New York, NY 10016](https://goo.gl/maps/rKGu8MZKs6tENsRQ8)  
+📝 **Description:** A well-known dojang offering traditional Taekwondo programs for all ages, including special classes for children.  
+✨ **Why it’s a good match:** The dedicated kids’ program ensures Xavier learns proper techniques in a supportive environment, improving his skills and discipline in an authentic Taekwondo setting.
+
+[INFO] 2025-02-24T18:24:38.544Z
+Server starting up...
+
+[INFO] 2025-02-24T18:24:38.546Z
+Server running on port 3001
+
+[INFO] 2025-02-24T18:24:40.655Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:24:40.659Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:25:01.455Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:28:11.567Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:28:14.539Z
+Server starting up...
+
+[INFO] 2025-02-24T18:28:14.542Z
+Server running on port 3001
+
+[INFO] 2025-02-24T18:28:17.078Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:28:17.084Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:28:22.778Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:34:26.446Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:34:26.448Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:34:35.944Z
+Server starting up...
+
+[INFO] 2025-02-24T18:34:35.947Z
+Server running on port 3001
+
+[INFO] 2025-02-24T18:34:38.729Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:34:38.733Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:38:35.674Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:42:28.431Z
+Server starting up...
+
+[INFO] 2025-02-24T18:42:28.433Z
+Server running on port 3001
+
+[INFO] 2025-02-24T18:42:31.043Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:42:31.047Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:43:13.530Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:47:41.668Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:47:41.669Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:47:51.930Z
+Server starting up...
+
+[INFO] 2025-02-24T18:47:51.933Z
+Server running on port 3001
+
+[INFO] 2025-02-24T18:47:54.417Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:47:54.420Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:48:01.182Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:48:19.407Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:48:19.412Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:51:52.582Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:51:52.586Z
+Request: [object Object]
+
+[INFO] 2025-02-24T18:52:04.637Z
+Request: [object Object]

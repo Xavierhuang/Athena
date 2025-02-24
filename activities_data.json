@@ -1,0 +1,874 @@
+[
+  {
+    "name": "92NY",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/92ny",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/92ny_logo_sizes.jpg",
+    "email": "jthomas@92NY.org",
+    "position": 1,
+    "description": "",
+    "location": {
+      "name": "The 92nd Street Y, New York",
+      "address": "1395 Lexington Avenue, (between 91st and 92nd Streets)",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10128",
+      "phone": "212-415-5500"
+    },
+    "image_filename": "92NY.jpg"
+  },
+  {
+    "name": "BOLD Arts ",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/bold-arts-2",
+    "image_url": "https://static.mommypoppins.com/mp_logo_square.jpg",
+    "email": "info@bold-arts.com",
+    "position": 2,
+    "description": "",
+    "location": {
+      "name": "BOLD Arts",
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "phone": ""
+    },
+    "image_filename": "BOLD_Arts_.jpg"
+  },
+  {
+    "name": "Brooklyn Bridge Fencing Club",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/brooklyn-bridge-fencing-club",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/bbfclogonavy_1.jpg",
+    "email": "Info@brooklynbridgefencing.com",
+    "position": 3,
+    "description": "",
+    "location": {
+      "name": "Brooklyn Bridge Fencing Club",
+      "address": "68 Jay Street, 508",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11201",
+      "phone": "(646) 823-2529"
+    },
+    "image_filename": "Brooklyn_Bridge_Fencing_Club.jpg"
+  },
+  {
+    "name": "CinemaKidz",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/cinemakidz",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/256.png",
+    "email": "info@CinemaKidz.com",
+    "position": 4,
+    "description": "",
+    "location": {
+      "name": "Camp CinemaKidz -UWS Manhattan",
+      "address": "795 Columbus Ave",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10025",
+      "phone": "347-699-6401"
+    },
+    "image_filename": "CinemaKidz.png"
+  },
+  {
+    "name": "Cozy Art Land",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/cozy-art-land-0",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/30_x_22_1_for_flag_.jpg",
+    "email": "cozyartland@cozyartland.com",
+    "position": 5,
+    "description": "",
+    "location": {
+      "name": "Cozy Art Land",
+      "address": "1040 45th Ave, 3F",
+      "city": "Long Island City",
+      "state": "NY",
+      "zip": "11101",
+      "phone": "408-495-1197"
+    },
+    "image_filename": "Cozy_Art_Land.jpg"
+  },
+  {
+    "name": "HGL ART Preschool and Fine Arts",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/hgl-art-preschool-and-fine-arts-0",
+    "image_url": "https://static.mommypoppins.com/mp_logo_square.jpg",
+    "email": "info@hglart.org",
+    "position": 6,
+    "description": "",
+    "location": {
+      "name": "HGL ART",
+      "address": "21 E 13th St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10003",
+      "phone": "646-682-7887"
+    },
+    "image_filename": "HGL_ART_Preschool_and_Fine_Arts.jpg"
+  },
+  {
+    "name": "Soccer Stars and Amazing Athletes",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/soccer-stars-and-amazing-athletes-0",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/soccerstars_wball_new_logo_09172020.png",
+    "email": "info@soccerstars.com",
+    "position": 7,
+    "description": "",
+    "location": {
+      "name": "Soccer Stars New York City",
+      "address": "606 Columbus Ave",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10024",
+      "phone": "2128777171"
+    },
+    "image_filename": "Soccer_Stars_and_Amazing_Athletes.png"
+  },
+  {
+    "name": "TADA! Youth Theater - Camps & Classes",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/tada-youth-theater-camps-classes-0",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/tada-40-anniversary-logo-red-01.png",
+    "email": "education@tadatheater.com",
+    "position": 8,
+    "description": "",
+    "location": {
+      "name": "TADA! Youth Theater",
+      "address": "15 West 28th Street, 3rd floor",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "phone": "212-252-1619"
+    },
+    "image_filename": "TADA__Youth_Theater___Camps___Classes.png"
+  },
+  {
+    "name": "Taste Buds Kitchen Cooking Birthday Parties",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/taste-buds-kitchen-cooking-birthday-parties-0",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/images/partydirectoryimage.gif",
+    "email": "nyc@tastebudskitchen.com",
+    "position": 9,
+    "description": "",
+    "location": {
+      "name": "Taste Buds Kitchen",
+      "address": "109 West 27th Street, 10th floor ",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "phone": "212-242-2248"
+    },
+    "image_filename": "Taste_Buds_Kitchen_Cooking_Birthday_Parties.gif"
+  },
+  {
+    "name": "Taste Buds Kitchen Cooking Camps",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/taste-buds-kitchen-cooking-camps-4",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/campdirectoryimage_0_1.jpeg",
+    "email": "nyc@tastebudskitchen.com",
+    "position": 10,
+    "description": "",
+    "location": {
+      "name": "Taste Buds Kitchen",
+      "address": "109 West 27th Street,, 10th floor",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "phone": "212-242-2248"
+    },
+    "image_filename": "Taste_Buds_Kitchen_Cooking_Camps.jpeg"
+  },
+  {
+    "name": "(CEDS) The Church of the Epiphany Day School ",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/music-classes-classes/ceds-the-church-of-the-epiphany-day-school",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/ceds_primary-logo_full-color_crop.png",
+    "email": "dayschool@epiphanynyc.org",
+    "position": 11,
+    "description": "",
+    "location": {
+      "name": "(CEDS) The Church of the Epiphany Day School - Preschool",
+      "address": "351 East 74th street ",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10021",
+      "phone": "212-717 4137"
+    },
+    "image_filename": "_CEDS__The_Church_of_the_Epiphany_Day_School_.png"
+  },
+  {
+    "name": "14th Street Y",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/14th-street-y-1",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/14y_logo_2020_fullcolor_cropped.png",
+    "email": "ServiceDesk@14streety.org",
+    "position": 12,
+    "description": "",
+    "location": {
+      "name": "14th Street Y",
+      "address": "344 East 14th Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10003",
+      "phone": "212-780-0800"
+    },
+    "image_filename": "14th_Street_Y.png"
+  },
+  {
+    "name": "Advantage QuickStart Tennis Classes",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/advantage-quickstart-tennis-classes",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/adv_qs_juniorprogram_white.jpg",
+    "email": "info.quickstart@advantagetennisclubs.com",
+    "position": 13,
+    "description": "",
+    "location": {
+      "name": "Advantage QuickStart Tennis at Columbia Prep School Gym",
+      "address": "4 West 93rd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10025",
+      "phone": "646-884-9644"
+    },
+    "image_filename": "Advantage_QuickStart_Tennis_Classes.jpg"
+  },
+  {
+    "name": "AhHa!Broadway",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/ahhabroadway-3",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/ahhabroadway_logo_purple_white_1240x800.png",
+    "email": "heather@ahhabroadway.org",
+    "position": 14,
+    "description": "",
+    "location": {
+      "name": "",
+      "address": "",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "phone": ""
+    },
+    "image_filename": "AhHa_Broadway.png"
+  },
+  {
+    "name": "All Sports for All People of Camp Olympia",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/all-sports-for-all-people-of-camp-olympia-0",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/cropped-newasaplogo.png",
+    "email": "info@AllSportsforAllPeople.net",
+    "position": 15,
+    "description": "",
+    "location": {
+      "name": "John Jay HS",
+      "address": "237 7th Ave",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11215",
+      "phone": "7187487084"
+    },
+    "image_filename": "All_Sports_for_All_People_of_Camp_Olympia.png"
+  },
+  {
+    "name": "Amazing Explorers Academy",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/childcare/amazing-explorers-academy-1",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/logo3002_1.png",
+    "email": "aea.hope@aexplorers.com",
+    "position": 16,
+    "description": "",
+    "location": {
+      "name": "Amazing Explorers Academy",
+      "address": "123 Hope Street",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11211",
+      "phone": "(347) 343-4435"
+    },
+    "image_filename": "Amazing_Explorers_Academy.png"
+  },
+  {
+    "name": "Aozora Community",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/aozora-community",
+    "image_url": "https://static.mommypoppins.com/mp_logo_square.jpg",
+    "email": "avery@aozoracommunity.org",
+    "position": 17,
+    "description": "",
+    "location": {
+      "name": "Aozora Community",
+      "address": "535 Clinton Avenue",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11238",
+      "phone": ""
+    },
+    "image_filename": "Aozora_Community.jpg"
+  },
+  {
+    "name": "Art Studio NY",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/art-studio-ny-0",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/screen_shot_2022-06-15_at_6.18.47_pm.png",
+    "email": "info@theartstudiony.com",
+    "position": 18,
+    "description": "",
+    "location": {
+      "name": "Art Studio NY",
+      "address": "211 West 80th Street, at ZPlay",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10024",
+      "phone": "212-932-8484"
+    },
+    "image_filename": "Art_Studio_NY.png"
+  },
+  {
+    "name": "Asphalt Green at the Post in Brooklyn",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/asphalt-green-at-the-post-in-brooklyn-0",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/ag_logo_a-light_1.png",
+    "email": "sportsadmin@asphaltgreen.org",
+    "position": 19,
+    "description": "",
+    "location": {
+      "name": "Asphalt Green Upper East Side",
+      "address": "555 East 90th Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10128",
+      "phone": "212-298-7900"
+    },
+    "image_filename": "Asphalt_Green_at_the_Post_in_Brooklyn.png"
+  },
+  {
+    "name": "Atlantic Acting School Classes for Kids & Teens",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/atlantic-acting-school-classes-for-kids-teens",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/kids_and_teens_logo_mommypoppins_1.jpg",
+    "email": "education@atlantictheater.org",
+    "position": 20,
+    "description": "",
+    "location": {
+      "name": "Atlantic Theater and Acting School",
+      "address": "76 Ninth Avenue, Suite 313",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10011",
+      "phone": "212-691-5919"
+    },
+    "image_filename": "Atlantic_Acting_School_Classes_for_Kids___Teens.jpg"
+  },
+  {
+    "name": "Ballet Academy East",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/ballet-academy-east-0",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/img_6492.jpeg",
+    "email": "jdubno@baenyc.com",
+    "position": 21,
+    "description": "",
+    "location": {
+      "name": "Ballet Academy East ",
+      "address": "1651 Third Avenue",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10128",
+      "phone": ""
+    },
+    "image_filename": "Ballet_Academy_East.jpeg"
+  },
+  {
+    "name": "BAX- Brooklyn Arts Exchange",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/bax-brooklyn-arts-exchange",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/bax.jpg",
+    "email": "press@bax.org",
+    "position": 22,
+    "description": "",
+    "location": {
+      "name": "BAX",
+      "address": "421 Fifth Avenue",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11215",
+      "phone": "718-832-0018 "
+    },
+    "image_filename": "BAX__Brooklyn_Arts_Exchange.jpg"
+  },
+  {
+    "name": "Bloomingdale School of Music",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/bloomingdale-school-of-music-0",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/60_years.png",
+    "email": "nbarbera@bsmny.org",
+    "position": 23,
+    "description": "",
+    "location": {
+      "name": "Bloomingdale School of Music",
+      "address": "323 West 108th Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10025",
+      "phone": "212-663-6021"
+    },
+    "image_filename": "Bloomingdale_School_of_Music.png"
+  },
+  {
+    "name": "Brooklyn Robot Foundry",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/brooklyn-robot-foundry-3",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/new_brf_logo_-_orange_large.jpg",
+    "email": "leigh@brooklynrobotfoundry.com",
+    "position": 24,
+    "description": "",
+    "location": {
+      "name": "Brooklyn Robot Foundry  - R&D",
+      "address": "98 4th Street, (@ Bond St.)",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11231",
+      "phone": "347-762-6840"
+    },
+    "image_filename": "Brooklyn_Robot_Foundry.jpg"
+  },
+  {
+    "name": "Brooklyn Robot Foundry-Manhattan East ",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/brooklyn-robot-foundry-manhattan-east-1",
+    "image_url": "https://static.mommypoppins.com/mp_logo_square.jpg",
+    "email": "manhattaneast@brooklynrobotfoundry.com",
+    "position": 25,
+    "description": "",
+    "location": {
+      "name": "Brooklyn Robot Foundry-Manhattan East",
+      "address": "",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "phone": "917-408-3492"
+    },
+    "image_filename": "Brooklyn_Robot_Foundry_Manhattan_East_.jpg"
+  },
+  {
+    "name": "Brooklyn Youth Chorus",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/brooklyn-youth-chorus",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/byc_logomark-bluebg.png",
+    "email": "rpointer@byca.org",
+    "position": 26,
+    "description": "",
+    "location": {
+      "name": "Brooklyn Youth Chorus",
+      "address": "179 Pacific St.",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11201",
+      "phone": "718-243-9447"
+    },
+    "image_filename": "Brooklyn_Youth_Chorus.png"
+  },
+  {
+    "name": "Center for Architecture K-12 Programs",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/center-for-architecture-k-12-programs-3",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/centerforarch_logo_400px.png",
+    "email": "k12education@centerforarchitecture.org",
+    "position": 27,
+    "description": "",
+    "location": {
+      "name": "The Center for Architecture",
+      "address": "536 LaGuardia Place",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10012",
+      "phone": "212-358-6133"
+    },
+    "image_filename": "Center_for_Architecture_K_12_Programs.png"
+  },
+  {
+    "name": "Center for Performing Arts and Dance",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/center-for-performing-arts-and-dance",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/new_logo_instagram_size.jpg",
+    "email": "info@centerforpad.com",
+    "position": 28,
+    "description": "",
+    "location": {
+      "name": "Center for Performing Arts and Dance  Flatiron",
+      "address": "11 West 25th Street, Second Floor",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10010",
+      "phone": "212-542-0780"
+    },
+    "image_filename": "Center_for_Performing_Arts_and_Dance.jpg"
+  },
+  {
+    "name": "Chelsea Piers - Youth Classes ",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/chelsea-piers-youth-classes-1",
+    "image_url": "https://static.mommypoppins.com/mp_logo_square.jpg",
+    "email": "fhclasses@chelseapiers.com",
+    "position": 29,
+    "description": "",
+    "location": {
+      "name": "Chelsea Piers ",
+      "address": "62 Chelsea Piers",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10011",
+      "phone": "212-336-6500, ext. 6520"
+    },
+    "image_filename": "Chelsea_Piers___Youth_Classes_.jpg"
+  },
+  {
+    "name": "Chickenshed NYC",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/chickenshed-nyc",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/chickenshed-nyc_logo_blk.png",
+    "email": "Admin@chickenshednyc.org",
+    "position": 30,
+    "description": "",
+    "location": {
+      "name": "14 Street Y",
+      "address": "344 East 14th Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10003",
+      "phone": "6465695742"
+    },
+    "image_filename": "Chickenshed_NYC.png"
+  },
+  {
+    "name": "Child's Play NY - Classes",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/childs-play-ny-classes-0",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/childsplayplogo-tagline-620x400-whitebg_0.png",
+    "email": "emily@childsplayny.com",
+    "position": 31,
+    "description": "",
+    "location": {
+      "name": "Child's Play NY",
+      "address": "Carroll Gardens",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11231",
+      "phone": ""
+    },
+    "image_filename": "Child_s_Play_NY___Classes.png"
+  },
+  {
+    "name": "Chrystie Street Ballet Academy",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/chrystie-street-ballet-academy-0",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/csba_flyer_front_logo.png",
+    "email": "info@chrystiestreetballet.com",
+    "position": 32,
+    "description": "",
+    "location": {
+      "name": "Gibney Studios",
+      "address": "53A Chambers Street, Tribeca, FiDi",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10002",
+      "phone": "212-219-9969"
+    },
+    "image_filename": null
+  },
+  {
+    "name": "Cocoon",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/cocoon-2",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/cocoon_logo_rgb-07_1.png",
+    "email": "Hi@joincocoon.com",
+    "position": 33,
+    "description": "",
+    "location": {
+      "name": "Cocoon",
+      "address": "316 Greenwich Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10013",
+      "phone": "212-320-9296"
+    },
+    "image_filename": "Cocoon.png"
+  },
+  {
+    "name": "Columbus Gym - Classes",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/columbus-gym-classes",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/screen_shot_2015-05-12_at_10.40.01_am.png",
+    "email": "gluck.kiah@gmail.com",
+    "position": 34,
+    "description": "",
+    "location": {
+      "name": "Columbus Gym",
+      "address": "606 Columbus Ave.",
+      "city": "New York ",
+      "state": "NY",
+      "zip": "10024",
+      "phone": "212-721-0090"
+    },
+    "image_filename": "Columbus_Gym___Classes.png"
+  },
+  {
+    "name": "Combat Club",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/combat-club",
+    "image_url": "https://static.mommypoppins.com/mp_logo_square.jpg",
+    "email": "rcorkinramey@gmail.com",
+    "position": 35,
+    "description": "",
+    "location": {
+      "name": "Combat Club",
+      "address": "281 Broadway, Lower Level",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10007",
+      "phone": ""
+    },
+    "image_filename": "Combat_Club.jpg"
+  },
+  {
+    "name": "Complete Playground Inc.",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/complete-playground-inc",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/cp-logo-text.png",
+    "email": "info@completeplayground.org",
+    "position": 36,
+    "description": "",
+    "location": {
+      "name": "Complete Playground",
+      "address": "30 Broad Street ",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10004",
+      "phone": "212-248-3030"
+    },
+    "image_filename": "Complete_Playground_Inc_.png"
+  },
+  {
+    "name": "CREA Interactivity",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/crea-interactivity-0",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/crea_logo1.png",
+    "email": "info@creainteractivity.com",
+    "position": 37,
+    "description": "",
+    "location": {
+      "name": "CREA Interactivity",
+      "address": "253 36th Street, 2nd Floor, Creative Workshop C-259",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11232",
+      "phone": "929-512-0862"
+    },
+    "image_filename": "CREA_Interactivity.png"
+  },
+  {
+    "name": "Cynthia King Dance Studio",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/cynthia-king-dance-studio",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/ckds_square_logo.jpg",
+    "email": "info@cynthiakingdance.com",
+    "position": 38,
+    "description": "",
+    "location": {
+      "name": "Cynthia King Dance Studio",
+      "address": "327 East 5th St",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11218",
+      "phone": "718-521-4043"
+    },
+    "reviews": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "debbiekauf_186240"
+        },
+        "reviewBody": "<p>I cannot say enough about CKDS. My 9-year old has been dancing with Ms. King and her amazing teachers for two years and already, dance is a huge part of her identity. From the very start, we knew that this was the place for us.&nbsp;All the students take it seriously and it shows in everything they do. My daughter (who is an only child) describes her dance friends as sisters.&nbsp;We love the community of kids and parents. Ms. King brings the community together with her professionalism, humor, and warmth. We love CKDS!!!!!</p>\r\n",
+        "name": "I cannot say enough about",
+        "reviewRating": {
+          "@type": "Rating",
+          "bestRating": "5",
+          "ratingValue": 5,
+          "worstRating": "0"
+        }
+      }
+    ],
+    "rating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 1
+    },
+    "image_filename": null
+  },
+  {
+    "name": "Dancewave",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/dancewave-1",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/dancewavelogo_black_burst.png",
+    "email": "hallee@dancewave.org",
+    "position": 39,
+    "description": "",
+    "location": {
+      "name": "Dancewave",
+      "address": "182 4th Ave",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11217",
+      "phone": "718-522-4696"
+    },
+    "image_filename": "Dancewave.png"
+  },
+  {
+    "name": "Discovery Programs",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/discovery-programs-0",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/square_logo_5.png",
+    "email": "discoveryprograms251@gmail.com",
+    "position": 40,
+    "description": "",
+    "location": {
+      "name": "Discovery Programs",
+      "address": "251 W. 100th St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10025",
+      "phone": "212-749-8717"
+    },
+    "image_filename": "Discovery_Programs.png"
+  },
+  {
+    "name": "EBL Coaching",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/ebl-coaching-0",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/ebl_logo_170_pixels_3.jpg",
+    "email": "info@eblcoaching.com",
+    "position": 41,
+    "description": "",
+    "location": {
+      "name": "EBL Coaching NYC Learning Center",
+      "address": "17 East 89th Street,, Suite 1D",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10128",
+      "phone": "212-249-0147"
+    },
+    "image_filename": "EBL_Coaching.jpg"
+  },
+  {
+    "name": "El Dojo Martial Arts Academy",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/el-dojo-martial-arts-academy",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/vertical_logo_2_1.jpg",
+    "email": "Training@eldojonyc.com",
+    "position": 42,
+    "description": "",
+    "location": {
+      "name": "El Dojo Martial Arts Academy",
+      "address": "1162 2nd Ave",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10065",
+      "phone": "6468997379"
+    },
+    "image_filename": "El_Dojo_Martial_Arts_Academy.jpg"
+  },
+  {
+    "name": "Emanu-El Downtown",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/emanu-el-downtown",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/downtown_kids_primary_logo_full_color_0.jpg",
+    "email": "dmann@emanuelnyc.org",
+    "position": 43,
+    "description": "",
+    "location": {
+      "name": "Emanu-El Downtown",
+      "address": "440 West 21st Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10011",
+      "phone": ""
+    },
+    "image_filename": "Emanu_El_Downtown.jpg"
+  },
+  {
+    "name": "EveryBody Psychotherapy NYC",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/yoga-sports-gym-classes-classes/everybody-psychotherapy-nyc",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/primary_1.jpg",
+    "email": "pam@everybodypsychotherapynyc.com",
+    "position": 44,
+    "description": "",
+    "location": {
+      "name": "EveryBody Psychotherapy NYC",
+      "address": "307 7th Ave Suite 1707 Room 4",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "phone": ""
+    },
+    "image_filename": "EveryBody_Psychotherapy_NYC.jpg"
+  },
+  {
+    "name": "First Shot Basketball School",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/first-shot-basketball-school",
+    "image_url": "https://static.mommypoppins.com/mp_logo_square.jpg",
+    "email": "firstshotbball@aol.com",
+    "position": 45,
+    "description": "",
+    "location": {
+      "name": " P.S. 139",
+      "address": "93-06 63rd Drive,  ",
+      "city": "Rego Park",
+      "state": "NY",
+      "zip": "11374",
+      "phone": "718-275-7974"
+    },
+    "image_filename": "First_Shot_Basketball_School.jpg"
+  },
+  {
+    "name": "Gotham Gymnastics",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/gotham-gymnastics-2",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/apparel_logos_ggbk_2019-03_0.jpg",
+    "email": "info@gothamgymnastics.com",
+    "position": 46,
+    "description": "",
+    "location": {
+      "name": "Gotham Gymnastics",
+      "address": "315 Douglass Street",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11217",
+      "phone": "718-722-7211"
+    },
+    "image_filename": "Gotham_Gymnastics.jpg"
+  },
+  {
+    "name": "Greenwich House",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/greenwich-house",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/gh_logo_2023.png",
+    "email": "info@greenwichhouse.org",
+    "position": 47,
+    "description": "",
+    "location": {
+      "name": "Greenwich House Music School",
+      "address": "46 Barrow St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10014",
+      "phone": "212-242-4770"
+    },
+    "image_filename": "Greenwich_House.png"
+  },
+  {
+    "name": "Home Cooking New York",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/home-cooking-new-york-1",
+    "image_url": "https://static.mommypoppins.com/styles/image960x650/s3/home-cooking-logo-stacked-color.png",
+    "email": "jennifer@homecookingny.com",
+    "position": 48,
+    "description": "",
+    "location": {
+      "name": "Home Cooking New York",
+      "address": "158 Grand Street, #207",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10013",
+      "phone": "917-803-6857"
+    },
+    "image_filename": "Home_Cooking_New_York.png"
+  },
+  {
+    "name": "Imagine Swimming",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/classes/imagine-swimming",
+    "image_url": "https://static.mommypoppins.com/mp_logo_square.jpg",
+    "email": "info@imagineswimming.com",
+    "position": 49,
+    "description": "",
+    "location": {
+      "name": "Imagine Swimming - Tribeca Flagship",
+      "address": "40 Harrison St.,, 2nd floor - pool",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10013",
+      "phone": "212-253-9650"
+    },
+    "image_filename": "Imagine_Swimming.jpg"
+  },
+  {
+    "name": "Imagine Works Youth Theatre",
+    "url": "https://mommypoppins.com/new-york-city-kids/directory/camps/imagine-works-youth-theatre-4",
+    "image_url": "https://static.mommypoppins.com/mp_logo_square.jpg",
+    "email": "imagineworksinfo@gmail.com",
+    "position": 50,
+    "description": "",
+    "location": {
+      "name": "The Players Theatre",
+      "address": "115 MacDougal Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10012",
+      "phone": "347-878-3813"
+    },
+    "image_filename": "Imagine_Works_Youth_Theatre.jpg"
+  }
+]

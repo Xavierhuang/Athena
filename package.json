@@ -1,0 +1,25 @@
+{
+  "name": "finetuned-recommender",
+  "version": "1.0.0",
+  "scripts": {
+    "client": "cd client && npm start",
+    "server": "cd server && node server.js",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "scrape": "node scripts/scrapeActivities.js",
+    "convert": "python scripts/json_to_excel.py"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.5",
+    "concurrently": "^8.2.2"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "openai": "^4.85.4",
+    "python-shell": "^5.0.0"
+  }
+}
